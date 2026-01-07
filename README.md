@@ -78,8 +78,6 @@ Antes de utilizar:
 
 ------------------------------------------------------------------------
 
-## 🤝 Créditos
-
 Projeto montado com base em **EFI genérica**, adaptado e testado
 especificamente para o **Lenovo ThinkCentre M910q**.
 
